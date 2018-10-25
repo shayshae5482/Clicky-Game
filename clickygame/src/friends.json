@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_Poised_Cartoon_Businesswoman.svg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Auteur.svg",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_Cartoon_Businesswoman_Checking_Her_Phone.svg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/A_Cool_And_Calm_Cartoon_Businesswoman.svg",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_Cartoon_Woman_Talks_Business_On_The_Phone.svg",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/A_Casually_Cool_Cartoon_Business_Woman.svg",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/An_Easy_Going_Cartoon_Businesswoman.svg",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/A_Happy_Cartoon_Businesswoman.svg",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/A_Flirty_Cartoon_Businesswoman.svg",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/A_Cool_Black_Businesswoman.svg",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_Trendy_Cartoon_Businesswoman.svg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Animateur.svg",
+    "occupation": "Ahhhh! A Real Monster!",
+    "location": "Under a City Dump"
+  }
+]
