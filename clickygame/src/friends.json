@@ -1,86 +1,86 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
+    "name": "Lilly",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_Poised_Cartoon_Businesswoman.svg",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "occupation": "Web Developer",
+    "location": "Miami, FL"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
+    "name": "Tracey",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Auteur.svg",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "occupation": "Angular Developer",
+    "location": "Dallas, TX"
   },
   {
     "id": 3,
-    "name": "Squidward",
+    "name": "Margaret",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_Cartoon_Businesswoman_Checking_Her_Phone.svg",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "occupation": "Business Analyst",
+    "location": "Washington, D.C."
   },
   {
     "id": 4,
-    "name": "Dexter",
+    "name": "Diana",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/A_Cool_And_Calm_Cartoon_Businesswoman.svg",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "occupation": "Javascript Developer",
+    "location": "NY, NY"
   },
   {
     "id": 5,
-    "name": "Courage",
+    "name": "Courtney",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_Cartoon_Woman_Talks_Business_On_The_Phone.svg",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "occupation": "Jr. Front End Web Developer",
+    "location": "Memphis, TN"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
+    "name": "Shelby",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/A_Casually_Cool_Cartoon_Business_Woman.svg",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "occupation": "Javascript Queen",
+    "location": "All over the world. But mostly Boston, MA."
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
+    "name": "Yesenia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/An_Easy_Going_Cartoon_Businesswoman.svg",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "occupation": "Jr. Web Developer",
+    "location": "Tulsa, Oklahoma"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
+    "name": "Bianca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/A_Happy_Cartoon_Businesswoman.svg",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "occupation": "Web Developer",
+    "location": "Las Vegas, NV"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
+    "name": "Tammy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/A_Flirty_Cartoon_Businesswoman.svg",
-    "occupation": "Adventurer",
-    "location": "California"
+    "occupation": "Freelance Web Designer",
+    "location": "Colorado"
   },
   {
     "id": 10,
-    "name": "Rocko",
+    "name": "Rachael",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/A_Cool_Black_Businesswoman.svg",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "occupation": "Data Analytics Consultant",
+    "location": "San Francisco, California"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
+    "name": "Kathryn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_Trendy_Cartoon_Businesswoman.svg",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "occupation": "Programmer",
+    "location": "Remote"
   },
   {
     "id": 12,
-    "name": "Ickis",
+    "name": "Chelsea",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Animateur.svg",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "occupation": "Sr. Web Developer",
+    "location": "Dallas, TX"
   }
 ]
