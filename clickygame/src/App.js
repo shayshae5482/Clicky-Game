@@ -8,8 +8,25 @@ import "./App.css";
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    friends
+    friends,
+    clicked: [],
   };
+
+
+
+
+  handleClick = id => {
+if (this.state.clicked.indexOf(id) === -1) {
+
+  this.handleIncrement();
+  this.setState({ clicked: this.state.clicked.concat(id) });
+} else {
+  this.handleReset();
+}
+
+};
+
+ 
 
   removeFriend = id => {
     // Filter this.state.friends for friends with an id not equal to the id being removed
@@ -28,13 +45,16 @@ class App extends Component {
             removeFriend={this.removeFriend}
             id={friend.id}
             key={friend.id}
-            name={friend.name}
+            handleClick={this.handleClick}
+            shuffle={this.shuffle}
+            handleReset={this.handleReset}
+
             image={friend.image}
           />
         ))}
       </Wrapper>
     );
-  }
-}
+  };
 
+}
 export default App;

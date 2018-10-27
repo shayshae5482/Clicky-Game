@@ -4,83 +4,83 @@
     "name": "Lilly",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_Poised_Cartoon_Businesswoman.svg",
     "occupation": "Web Developer",
-    "location": "Miami, FL"
+    "clicked": false
   },
   {
     "id": 2,
     "name": "Tracey",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Auteur.svg",
     "occupation": "Angular Developer",
-    "location": "Dallas, TX"
+    "clicked": false
   },
   {
     "id": 3,
     "name": "Margaret",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/A_Cartoon_Businesswoman_Checking_Her_Phone.svg",
     "occupation": "Business Analyst",
-    "location": "Washington, D.C."
+    "clicked": false
   },
   {
     "id": 4,
     "name": "Diana",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/A_Cool_And_Calm_Cartoon_Businesswoman.svg",
     "occupation": "Javascript Developer",
-    "location": "NY, NY"
+    "clicked": false
   },
   {
     "id": 5,
     "name": "Courtney",
     "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_Cartoon_Woman_Talks_Business_On_The_Phone.svg",
     "occupation": "Jr. Front End Web Developer",
-    "location": "Memphis, TN"
+    "clicked": false
   },
   {
     "id": 6,
     "name": "Shelby",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/A_Casually_Cool_Cartoon_Business_Woman.svg",
     "occupation": "Javascript Queen",
-    "location": "All over the world. But mostly Boston, MA."
+    "clicked": false
   },
   {
     "id": 7,
     "name": "Yesenia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/An_Easy_Going_Cartoon_Businesswoman.svg",
     "occupation": "Jr. Web Developer",
-    "location": "Tulsa, Oklahoma"
+    "clicked": false
   },
   {
     "id": 8,
     "name": "Bianca",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/A_Happy_Cartoon_Businesswoman.svg",
     "occupation": "Web Developer",
-    "location": "Las Vegas, NV"
+    "clicked": false
   },
   {
     "id": 9,
     "name": "Tammy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/A_Flirty_Cartoon_Businesswoman.svg",
     "occupation": "Freelance Web Designer",
-    "location": "Colorado"
+    "clicked": false
   },
   {
     "id": 10,
     "name": "Rachael",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/A_Cool_Black_Businesswoman.svg",
     "occupation": "Data Analytics Consultant",
-    "location": "San Francisco, California"
+    "clicked": false
   },
   {
     "id": 11,
     "name": "Kathryn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/A_Trendy_Cartoon_Businesswoman.svg",
     "occupation": "Programmer",
-    "location": "Remote"
+    "clicked": false
   },
   {
     "id": 12,
     "name": "Chelsea",
     "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Animateur.svg",
     "occupation": "Sr. Web Developer",
-    "location": "Dallas, TX"
+    "clicked": false
   }
 ]

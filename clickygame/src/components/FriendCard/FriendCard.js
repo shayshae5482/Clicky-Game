@@ -4,12 +4,13 @@ import "./FriendCard.css";
 const FriendCard = props => (
   <div className="card">
     <div className="img-container">
-      <img alt={props.name} src={props.image} />
+      <img alt={props.id} src={props.image} />
     </div>
-  <div className="content">
+  <div 
+  className="content">
       
     </div>
-    <span onClick={() => props.removeFriend(props.id)} className="remove">
+    <span onClick={() => props.handleClick(props.id)}>
       
     </span>
   </div>
